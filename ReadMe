@@ -1,0 +1,2 @@
+To work with "MyProjects" project, you need "MyDataBase" sql DB with "Employee" table having "ID(int,PK),EmployeeName(string),EmployeeMailID(string)",
+EmployeeAge(int)" columns.
