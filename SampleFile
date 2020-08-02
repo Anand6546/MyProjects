@@ -1,7 +1,0 @@
-=================================Edited by anand==================
- Learn .Net Core in 10 Minutes
-.Net Core is a platform independent, modular and open source version of .Net framework. It is a complete re-write of .NetFramework with new CLR, Base Class Libraries 
-for developing cross platform and cloud optimized applications. It is a modular framework, meaning developers can include only required package to build their applications. 
-All the packages are delivered via Nuget package manager.
-In other words, .Net Core framework packages can be included in your application privately or the framework can be installed on the machine (similar to full .NetFramework). 
-Current version of .Net Core as of this writing is .Net Core 2.0 and the first official version is .Net Core 1.0. It is also delivered as complete installer package if required.
