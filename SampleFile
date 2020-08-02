@@ -1,4 +1,5 @@
-Learn .Net Core in 10 Minutes
+=================================Edited by anand==================
+ Learn .Net Core in 10 Minutes
 .Net Core is a platform independent, modular and open source version of .Net framework. It is a complete re-write of .NetFramework with new CLR, Base Class Libraries 
 for developing cross platform and cloud optimized applications. It is a modular framework, meaning developers can include only required package to build their applications. 
 All the packages are delivered via Nuget package manager.
